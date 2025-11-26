@@ -6,8 +6,8 @@ function Invoke-ReverseDnsLookup
 Perform a reverse DNS lookup scan on a range of IP addresses.
 
 PowerSploit Function: Invoke-ReverseDnsLookup  
-Author: Matthew Graeber (@mattifestation)  
-Modified by: Added DNSServer parameter
+Author: M Graeber  
+Modified by me: Added DNSServer parameter
 License: BSD 3-Clause  
 Required Dependencies: None  
 Optional Dependencies: None  
@@ -300,4 +300,5 @@ https://github.com/mattifestation/PowerSploit
             }
         }
     }
+
 }
